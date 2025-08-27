@@ -1,2 +1,2 @@
 # Practice
-This repository conatain all the codes I have implemented during learning C++ Programming language From bassic to advance
+This repository conatain all the codes I have implemented during learning Programming languages From bassic to advance
